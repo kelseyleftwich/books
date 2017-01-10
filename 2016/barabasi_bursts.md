@@ -1,5 +1,7 @@
 #Bursts
 ##Albert-Laszlo Barabasi
+**5/10**
+_Entertaining. Introduces interesting ideas. Fails to follow through after it piqued my interest._
 
 ###Power-law distribution
 "The very essence of a power-law distribution is that it naturally predicts such rare events, telling us that we will always have a few data points that grossly deviate from the average. In other words, when power laws are present, we can always count on outliers."
